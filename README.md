@@ -1,4 +1,6 @@
 # Get-Me-Theraphy
+
+## Description
 - This application is built using [crate-next-app]
 - It uses [Tailwind CSS]
 - The application is generated in [TypeScript]
@@ -11,6 +13,6 @@
 
 ## Running in dev environment
 
-1.`cd YOUR_APPLICATION`
+1. `cd YOUR_APPLICATION`
 2. `npm install`
 3. `npm run dev`
